@@ -3,12 +3,11 @@
 * Criando o projeto
 react-native init exercicios2
 
+* Rodar o comando yarn para instalar dependencias
+yarn
 
 * Start?
 react-native start
-
-* Rodar o comando yarn para instalar dependencias
-yarn
 
 * Executando
 npm run android
