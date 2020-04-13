@@ -1,0 +1,14 @@
+# Lista de comandos rodados no projeto
+
+* Criando o projeto
+react-native init exercicios2
+
+
+* Start?
+react-native start
+
+* Rodar o comando yarn para instalar dependencias
+yarn
+
+* Executando
+npm run android
