@@ -1,0 +1,15 @@
+# Comandos executados:
+
+- Criar o projeto
+npx react-native init tasks --version 0.61.5
+
+Install dependencias
+npm i
+
+//Linkando pasta de dependencias
+npx react-native link
+
+
+npx react-native start separado em outro terminal
+
+npx react-native run-android 
